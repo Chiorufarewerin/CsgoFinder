@@ -1,0 +1,1 @@
+https://api.steampowered.com/IInventoryService/GetInventory/v1/?key=A5A05C53A03D8E8B3DA5EFB2E9DBE149&steamid=76561198066508066&appid=730
